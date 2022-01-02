@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+
+<ruleset
+        name="PMD"
+        xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 https://pmd.sourceforge.io/ruleset_2_0_0.xsd">
+    <description> PMD</description>
+
+
+
+    <!-- the following files produce parsing errors with java 9, as they use identifiers, that
+         are now reserved keywords and are forbidden to be used as identifiers.
+
+             For Controller Class -->
+    <exclude-pattern>.*/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/Student.java</exclude-pattern>
+    <exclude-pattern>.*/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/Main.java</exclude-pattern>
+    <exclude-pattern>.*/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/ClassRoom.java</exclude-pattern>
+    <exclude-pattern>.*/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/test/java/assignment/ClassRoomTest.java</exclude-pattern>
+    <exclude-pattern>.*/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/test/java/assignment/StudentTest.java</exclude-pattern>
+
+
+
+    <!-- this file contains are parse error explicitly -->
+
+    <rule ref="category/java/bestpractices.xml" />
+    <rule ref="category/java/codestyle.xml" />
+    <rule ref="category/java/design.xml" />
+    <rule ref="category/java/documentation.xml" />
+    <rule ref="category/java/errorprone.xml" />
+    <rule ref="category/java/multithreading.xml" />
+    <rule ref="category/java/performance.xml" />
+    <rule ref="category/java/security.xml" />
+
+</ruleset>

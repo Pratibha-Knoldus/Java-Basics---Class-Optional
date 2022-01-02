@@ -1,0 +1,21 @@
+
+%__sonar_lambda_1$assignment.ClassRoomˆ
+~/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/ClassRoom.java1 1(C"1*¦
+1ˆ
+~/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/ClassRoom.java1# 1(*Œ‰
+ˆ
+~/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/ClassRoom.java1# 1(7
+%6java.util.Optional"3assignment.Student#getSubject()Ljava/util/Optional;*
+
+studentassignment.Student2getSubject()çä
+ˆ
+~/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/ClassRoom.java1# 1(C
+%7boolean"java.util.Optional#isPresent()Z*
+
+%6java.util.Optional2isPresent()"œ
+ˆ
+~/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/ClassRoom.java1# 1(C
+
+%7boolean:
+studentassignment.StudentB 
+java.util.function.Predicate

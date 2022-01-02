@@ -1,0 +1,56 @@
+
+@assignment.ClassRoom#getStudentsWithoutSubject()Ljava/util/List;à
+~/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/ClassRoom.java (2"1*“
+1à
+~/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/ClassRoom.java( (3Ÿ
+÷
+à
+~/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/ClassRoom.java( (3
+%0java.util.Optional"__id*)*'
+assignment.ClassRoom"
+studentListÛ
+à
+~/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/ClassRoom.java( (9
+%1java.util.List"*java.util.Optional#get()Ljava/lang/Object;*
+
+%0java.util.Optional2get()áÑ
+à
+~/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/ClassRoom.java( (B
+%2java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*
+
+%1java.util.List2stream()
+Ì
+à
+~/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/ClassRoom.java  !(>"
+%3java.util.function.Predicate"__declareFunction*)'
+%__sonar_lambda_0$assignment.ClassRoomıÚ
+à
+~/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/ClassRoom.java( !(?
+%7java.util.stream.Stream"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*
+
+%2java.util.stream.Stream*$
+"
+%3java.util.function.Predicate2&filter(Ljava/util/function/Predicate;)ì
+ê
+à
+~/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/ClassRoom.java" "(, 
+%8java.util.stream.Collector"@java.util.stream.Collectors#toList()Ljava/util/stream/Collector;*"
+java.util.stream.Collectors·ﬁ
+à
+~/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/ClassRoom.java( "(-
+%9java.util.List"Ojava.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;*
+
+%7java.util.stream.Stream*"
+ 
+%8java.util.stream.Collector2%collect(Ljava/util/stream/Collector;)Œ
+À
+à
+~/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/ClassRoom.java "(. 
+withoutSubjectjava.util.List"__id*
+
+%9java.util.List"Ø
+à
+~/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/ClassRoom.java# #("
+ 
+withoutSubjectjava.util.ListB
+assignment.ClassRoom

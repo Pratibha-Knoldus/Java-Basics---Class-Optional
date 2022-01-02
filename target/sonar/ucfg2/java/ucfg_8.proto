@@ -1,0 +1,82 @@
+
+/assignment.Student#toString()Ljava/lang/String;Ü
+|/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/Student.javaG G("1*ù
+1Ü
+|/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/Student.javaH H(»
+≈
+Ü
+|/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/Student.javaH I(
+%0java.lang.String"__concat*
+
+Student{*
+
+name='Ã
+…
+Ü
+|/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/Student.javaI I(!
+%1java.lang.String"__id* *
+assignment.Student"
+name‚
+ﬂ
+Ü
+|/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/Student.javaH I(!
+%2java.lang.String"__concat*
+
+%0java.lang.String*
+
+%1java.lang.String–
+Õ
+Ü
+|/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/Student.javaH I((
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+\'€
+ÿ
+Ü
+|/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/Student.javaH J(!
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+, rollNumber=–
+Õ
+Ü
+|/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/Student.javaH J(.
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+""ÿ
+’
+Ü
+|/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/Student.javaH K(
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+
+, subject=—
+Œ
+Ü
+|/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/Student.javaK! K((
+%7java.util.Optional"__id*#*!
+assignment.Student"	
+subject‰
+·
+Ü
+|/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/Student.javaH K((
+%8java.lang.String"__concat*
+
+%6java.lang.String*
+
+%7java.util.Optionalœ
+Ã
+Ü
+|/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/Student.javaH L(
+%9java.lang.String"__concat*
+
+%8java.lang.String*
+}"£
+Ü
+|/home/knoldus/Desktop/Java_Basic_Class_Assignment/Java_Basic_Class_Optional_Assignment/src/main/java/assignment/Student.javaH L(
+
+%9java.lang.StringB
+assignment.Student
